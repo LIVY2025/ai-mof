@@ -51,7 +51,7 @@ st.title("📊 Stacking Model Prediction & SHAP Analysis")
 st.markdown("""
 This web application predicts toluene adsorption capacity (TSN) of MOF materials based on input features, and visualizes feature contributions using SHAP.
 
-**Model**: Stacking Regressor with 8 base learners and MLP meta-learner, achieving test R² ≈ 0.882.
+**Model**: Stacking Regressor with 8 base learners and MLP meta-learner, achieving test R² ≈ 0.902.
 
 ---
 """)
